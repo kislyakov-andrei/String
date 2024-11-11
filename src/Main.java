@@ -20,5 +20,6 @@ public class Main {
         fullName = lastName + " " + firstName + " " + middlName;
         fullName = fullName.replace('ё', 'е');
         System.out.println(fullName);
+
     }
 }
